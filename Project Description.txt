@@ -1,0 +1,4 @@
+I have sales data (july2018-feb2019) of Vibha Agencies which produces various hydraulic parts. 
+Vibha Agencies have several plants which have different plant codes. 
+Plant Buyer refers to the person who buys the parts from that particular plant.
+Aim - predict sales of each part for next month and create a shiny app for easy visualization.
